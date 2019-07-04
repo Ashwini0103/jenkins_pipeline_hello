@@ -5,4 +5,6 @@ node {
    		echo 'Hello World 2'
    stage 'stage 3'
          echo 'aarav did very well'
+   stage 'ashu'
+         echo 'now ashu did very well'
 }
