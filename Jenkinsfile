@@ -7,6 +7,5 @@ node {
          echo 'aarav did very well'
    stage 'ashu'
          echo 'now ashu did very well..'
-   stage 'aarav'
-         echo 'aarav did very well..'
+   
 }
